@@ -1,8 +1,8 @@
 <html>
  <head>
-  <title>Andre Testing in S2I</title>
+  <title>Andre passed the EX280</title>
  </head>
  <body>
- <?php echo '<p>Andre pass the ex280...</p>'; ?> 
+ <?php echo '<p>Andre passed the ex280 over 280..</p>'; ?> 
  </body>
 </html>
