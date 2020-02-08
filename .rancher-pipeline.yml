@@ -1,0 +1,10 @@
+stages:
+- name: complie
+  steps:
+  - applyAppConfig:
+      catalogTemplate: cattle-global-data:alibaba-app-hub-nginx-php
+      version: 1.0.0
+      name: hello-world
+      targetNamespace: mytest
+timeout: 60
+notification: {}
